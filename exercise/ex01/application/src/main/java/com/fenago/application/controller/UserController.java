@@ -1,4 +1,4 @@
-package main.java.com.fenago.application.controller;
+package com.fenago.application.controller;
 
 import com.fenago.application.entities.Users;
 import com.fenago.application.repositories.UserRepository;

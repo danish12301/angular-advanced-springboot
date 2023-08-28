@@ -1,4 +1,4 @@
-package main.java.com.fenago.application.entities;
+package com.fenago.application.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

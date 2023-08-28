@@ -1,4 +1,4 @@
-package main.java.com.fenago.application.repositories;
+package com.fenago.application.repositories;
 
 import com.fenago.application.entities.Users;
 import org.springframework.data.repository.CrudRepository;
